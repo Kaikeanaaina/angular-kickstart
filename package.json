@@ -13,7 +13,7 @@
     "url": "git@github.com:vesparny/angular-kickstart.git"
   },
   "devDependencies": {
-    "browser-sync": "~2.7.1",
+    "browser-sync": "~2.27.10",
     "del": "~1.1.1",
     "gulp": "~3.8.11",
     "gulp-changed": "~1.2.1",
